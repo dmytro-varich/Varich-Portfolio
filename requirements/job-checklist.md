@@ -30,8 +30,38 @@ This structured table contains questions I may ask during an HR interview, based
 
 *(related to: support, mentorship, low-stress environment)*
 
-- Who will I be working with on a daily bas
+- Who will I be working with on a daily basis?  
+- Will I have a mentor or someone to support me during onboarding?  
+- What is the team like in terms of experience and dynamics?  
+- What is the overall team culture like? How do you handle feedback, mistakes, and support for new team members?
 
 ---
 
-**Last updated:** `21 July 2025`
+### 🧑‍💻 Role & Tech Stack  
+
+*(related to: first steps in IT, tasks, technical learning)*
+
+- What technologies will I be using in this role?  
+- What stack is used by the rest of the team?  
+- What kind of tasks or projects will I be working on?  
+- How do you typically support junior employees in their first months?
+
+---
+
+### 🚀 Growth & Development Opportunities  
+
+*(related to: skill-building, role changes, career path)*
+
+- What opportunities are there for professional growth within the company?  
+- Is it possible to switch roles or explore other departments in the future?  
+- How do your employees typically grow within the company?  
+- Do you provide learning resources or cover educational expenses?
+
+---
+
+### 🏢 Company & Vision  
+
+*(related to: alignment with mission and values)*
+
+- What does your company specialize in?  
+- What are the current goals or projects that your team is working on?

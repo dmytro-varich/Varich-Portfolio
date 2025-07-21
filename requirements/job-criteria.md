@@ -9,4 +9,6 @@ To define my criteria for a company that aligns with my values and goals, so I c
 5. **Schedule:** fixed, with a clear and consistent work routine.
 6. **Growth:** it’s important that the company offers opportunities to develop my skills and provides a direct or indirect path toward career advancement.
 
-🟢 Last updated: `21 July 2025`
+--- 
+
+**Last updated:** `21 July 2025`

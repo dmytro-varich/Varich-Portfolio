@@ -8,7 +8,9 @@ I was born in Ukraine, in Kharkiv, and I am currently living and studying in Ko�
 
 # 🎓 Education
 
-## 🖥 Kharkiv Radio Engineering College
+My education started in Ukraine with hardware and design fundamentals and continued in Slovakia focusing on AI and software development.
+
+## 🖥 Kharkiv Radio Technical Vocational College
 
 My technical education began at Kharkiv Radio Engineering College, where I studied *Computer Engineering* (2019–2023).
 As part of the program, I learned Python/C# programming, computer logic, operating system architecture, computer networks, microprocessors and microcontrollers, peripheral devices, soldering basics, and working with graphic editors (Photoshop, CorelDRAW).
@@ -19,7 +21,7 @@ Upon graduation, I received a junior specialist qualification.
 After the start of the full-scale war, I moved to Slovakia and continued my studies at the Technical University of Košice (TUKE) in the *Intelligent Systems* program.
 Here, I studied artificial intelligence, machine learning, neural networks, robotics, computer vision, web development, Python, C#, databases, and cloud technologies.
 
-Currently, I have only one subject and my thesis left to complete my bachelor’s degree in 2025/2026.
+> Currently, I have only one subject and my thesis left to complete my bachelor’s degree in 2025/2026.
 
 # 💼 Work Experience
 
@@ -28,17 +30,19 @@ My main task was to locate and pick items in the warehouse according to customer
 
 # 🚀 Project Experience
 
+Throughout my studies, I actively engaged in various projects and collaborative challenges to build practical skills and apply theoretical knowledge.
+
 ## 🏆 Hackathons
 
 I participated in several hackathons, where I worked in a team to create prototypes of web and AI projects.
 These events gave me practical experience in making quick technical decisions, task distribution, and collaborative development.
 
-## 🏢 Bachelor’s Thesis & Siemens Healthineers
+## 📔 Bachelor’s Thesis
 
 As part of my bachelor’s thesis, I collaborated with a consultant from Siemens Healthineers, which gave me valuable experience in communicating with a representative of a major international company.
 This helped me develop skills in understanding technical requirements, staying organized when planning tasks, and being responsible for meeting deadlines.
 
-## 💻 Pet Projects & GitHub
+## 💻 GitHub Projects
 
 While studying at the university, I simultaneously worked on pet projects to develop programming skills and explore different technologies.
 I aimed to make each project not just a practice exercise, but a potentially useful product — first and foremost for myself, but also with the idea that it could benefit others and eventually evolve into a commercially successful solution.

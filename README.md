@@ -2,16 +2,25 @@
   <img src="assets/profile.jpg" width="180" alt="Dmytro Varich">
 </p>
 
-<h1 align="center">Dmytro Varich</h1>
+<h1 align="center">
+  Dmytro Varich
+</h1>
+
+<h3 align="center">
+  Python Developer | AI Automation
+</h3>
 
 <p align="center">
-  Junior Python Developer<br>
-  📍 Kosice, Slovakia
+  📍 Košice, Slovakia
+  •
+  🌐 Remote Available
+  •
+  ✉️ varich.it@gmail.com 
 </p>
 
 ## 👤 About Me
 
-Interested in software development, business process automation, and building practical Python applications. Experienced in developing web applications, Telegram bots, API integrations, workflow automation, and robotics systems. Seeking to further develop my expertise in full-stack development, artificial intelligence, and software architecture.
+I am a Python Developer interested in software development, business process automation, and building practical applications. Experienced in developing web applications, Telegram bots, API integrations, workflow automation, and robotics systems. Focused on backend development, artificial intelligence, and software architecture.
 
 ## 🎓 Education
 
@@ -24,106 +33,186 @@ Interested in software development, business process automation, and building pr
 
 | Position                                  | Company                     | Description                                                                                                       | Years          |
 | ----------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------- |
-| AI AUTOMATION SPECIALIST                     | Gravity Smart Home | Designed and implemented automated business workflows and process optimizations. Built and maintained automation pipelines using n8n, developed Telegram bots, created lightweight web applications, and integrated third-party APIs to streamline internal and external processes. | 2025 – 2026    |
-| WAREHOUSE OPERATIVE | GymBeam               | Responsible for handling and moving goods within the warehouse, including receiving, sorting, and storing products. Assisted with order preparation (picking and packing) and ensured accurate stock organization.               | 2023 – 2024 |
+| AI Automation Specialist                     | Gravity Smart Home | Designed and implemented automated business workflows and process optimizations. Built and maintained automation pipelines using n8n, developed Telegram bots, created lightweight web applications, and integrated third-party APIs to streamline internal and external processes. | 2025 – 2026    |
+| Warehouse Operative | GymBeam               | Responsible for handling and moving goods within the warehouse, including receiving, sorting, and storing products. Assisted with order preparation (picking and packing) and ensured accurate stock organization.               | 2023 – 2024 |
 
-## ⚙️ Technical Skills
+## ⚙️ Technical Stack
 
-#### Core Programming
+### OS
 
-`Python`, `Bash`, `SQL`
+`Linux`
 
-#### Backend
+### Languages
 
-`FastAPI`, `Django`, `REST APIs`, `WebSockets`
+`Python`, `SQL`, `JavaScript`, `Bash`
 
-#### Databases
+### Backend
 
-`PostgreSQL`, `SQLite`, `MongoDB`
+`FastAPI`, `Django`, `Pydantic`
 
-#### Automation & Integration
+### Frontend
 
-`n8n`, `Make`, `Webhooks`, `API integrations`
+`HTML`, `CSS`, `React`, `Tailwind`
 
-#### Telegram Systems
+### Databases
 
-`aiogram 3`, `Telethon`, `TDLib`
+`PostgreSQL`, `MongoDB`, `SQLite`, `MySQL`
 
-#### Web Scraping & Automation
+### AI / Data Science
 
-`Selenium`, `Playwright`, `Requests`, `BeautifulSoup`
-
-#### Frontend
-
-`HTML`, `CSS`, `JavaScript`, `React`
-
-#### Application Frameworks
-
-`Streamlit`
-
-#### AI / LLM Systems
-
-`OpenAI API`, `OpenRouter`, `RAG`, `AI Agents`
-
-#### AI / Machine Learning
-
-`PyTorch`, `TensorFlow`, `scikit-learn`, `NumPy`, `Pandas`
-
-#### Computer Vision
-
-`OpenCV`
-
-#### Robotics
-
-`ROS 2`, `NVIDIA Isaac ROS`, `Navigation2`, `Cartographer`, `SLAM`, `AprilTag`, `DNN Inference`, `Webots`, `Foxglove Studio`
-
-#### Data Visualization
-
-`Matplotlib`, `Seaborn`
-
-#### Cloud
-
-`AWS`, `Microsoft Azure`, `Railway`
-
-#### Development Tools
-
-`Linux`, `Git`, `Docker`
-
-## 🚀 Featured Projects
-
-### Telegram & Automation
-
-- [Tg-Message-Listener](https://github.com/dmytro-varich/Tg-Message-Listener) – Asynchronous Telegram parser with an HTTP API that collects message history from chats and channels, delivers data via webhooks, and runs a background listener for real-time message monitoring.
-- [Tg-Freelance-Watcher](https://github.com/dmytro-varich/Tg-Freelance-Watcher) – Telegram client built with Telethon for monitoring freelance platforms, processing RSS feeds, and forwarding job postings automatically.
-- [Tg-Meme-Forwarder](https://github.com/dmytro-varich/Tg-Meme-Forwarder) – Telegram automation tool for forwarding content between channels with configurable source management.
-- [Perfect-Telegram-Bot](https://github.com/dmytro-varich/Perfect-Telegram-Bot) – Telegram bot for nutrition tracking, calorie calculation, and healthy lifestyle management.
-- [Character-AI-Telegram-Bot](https://github.com/dmytro-varich/Character-AI-Telegram-Bot) – Telegram bot integrating Character AI through its API to provide conversational AI directly in Telegram.
-- [Hangman-Telegram-Bot](https://github.com/dmytro-varich/Hangman-Telegram-Bot) – Multiplayer Hangman game implemented as a Telegram bot.
-
-### Web Applications
-
-- [AI-Resume-Creator](https://github.com/dmytro-varich/AI-Resume-Creator) – AI-powered web application that generates resumes from GitHub or LinkedIn profiles using LLMs.
-- [KeyCRM-Streamlit-Analytics](https://github.com/dmytro-varich/KeyCRM-Streamlit-Analytics) – Streamlit analytics dashboard for KeyCRM with interactive data visualization.
-- [WorkTimer](https://github.com/dmytro-varich/WorkTimer) – Web-based time tracker with persistent work session history and multilingual support.
-- [Sentiment-Analysis-Web-App](https://github.com/dmytro-varich/Sentiment-Analysis-Web-App) – Dockerized sentiment analysis web application developed using cloud technologies.
-- [Website-Demo-Varich-Journal](https://github.com/dmytro-varich/Website-Demo-Varich-Journal) – Personal online magazine developed as a university web technologies project.
+`NumPy`, `Pandas`, `Seaborn`, `Matplotlib`, `OpenCV`, `Scikit-learn`
 
 ### Robotics
 
-- [webots_ros2_tesla_slam](https://github.com/dmytro-varich/webots_ros2_tesla_slam) – ROS 2 interface for a Tesla model in Webots featuring Cartographer SLAM and Navigation2 integration.
-- [Bug2-Algorithm-Webots-Bot](https://github.com/dmytro-varich/Bug2-Algorithm-Webots-Bot) – Implementation of the Bug2 navigation algorithm with a custom robot model and simulation environment in Webots.
+`ROS 2`, `NVIDIA Isaac ROS`, `Navigation2`, `Cartographer`, `SLAM`, `AprilTag`, `DNN Inference`, `Webots`, `Foxglove Studio`
 
-### Machine Learning
+### Web Scraping
 
-- [ML-AQ11-Rule-Generation](https://github.com/dmytro-varich/ML-AQ11-Rule-Generation) – Implementation of the AQ11 machine learning algorithm for rule generation and bank deposit prediction.
+`Requests`, `BeautifulSoup4`, `Selenium`, `Playwright`
 
-### Database
+### Bots
 
-- [Telegram-Social-Network-Database](https://github.com/dmytro-varich/Telegram-Social-Network-Database) – Oracle SQL database design project modeling the Telegram social network, including ER diagrams, relational schema, and SQL implementation.
+`aiogram`, `Telethon`, `TDLib`
+
+### Automation
+
+`n8n`, `Make`, `Webhooks`, `API Integration`
+
+### Frameworks
+
+`Streamlit`
+
+### DevOps
+
+`Docker`, `Nginx`
+
+### Design Tools
+
+`Figma`, `Photoshop`, `Canva`
+
+## 🚀 Featured Projects
+
+<div align="center">
+<h3>Telegram & Automation</h3>
+</div>
+
+<p align="center">
+
+<a href="https://github.com/dmytro-varich/Tg-Message-Listener">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=Tg-Message-Listener"/>
+</a>
+
+<a href="https://github.com/dmytro-varich/Tg-Freelance-Watcher">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=Tg-Freelance-Watcher"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/dmytro-varich/Tg-Meme-Forwarder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=Tg-Meme-Forwarder"/>
+</a>
+
+<a href="https://github.com/dmytro-varich/Perfect-Telegram-Bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=Perfect-Telegram-Bot"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/dmytro-varich/Character-AI-Telegram-Bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=Character-AI-Telegram-Bot"/>
+</a>
+
+<a href="https://github.com/dmytro-varich/Hangman-Telegram-Bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=Hangman-Telegram-Bot"/>
+</a>
+
+</p>
+
+<div align="center">
+<h3>Web Applications</h3>
+</div>
+
+<p align="center">
+
+<a href="https://github.com/dmytro-varich/AI-Resume-Creator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=AI-Resume-Creator&theme=default"/>
+</a>
+
+<a href="https://github.com/dmytro-varich/KeyCRM-Streamlit-Analytics">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=KeyCRM-Streamlit-Analytics&theme=default"/>
+</a>
+
+</p>
+
+
+<p align="center">
+
+<a href="https://github.com/dmytro-varich/WorkTimer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=WorkTimer&theme=default"/>
+</a>
+
+<a href="https://github.com/dmytro-varich/Sentiment-Analysis-Web-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=Sentiment-Analysis-Web-App&theme=default"/>
+</a>
+
+</p>
+
+
+<p align="center">
+
+<a href="https://github.com/dmytro-varich/Website-Demo-Varich-Journal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=Website-Demo-Varich-Journal&theme=default"/>
+</a>
+
+</p>
+
+<div align="center">
+<h3>Robotics</h3>
+</div>
+
+<p align="center">
+
+<a href="https://github.com/dmytro-varich/webots_ros2_tesla_slam">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=webots_ros2_tesla_slam&theme=default&show_owner=false"/>
+</a>
+
+<a href="https://github.com/dmytro-varich/Bug2-Algorithm-Webots-Bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=Bug2-Algorithm-Webots-Bot&theme=default&show_owner=false"/>
+</a>
+
+</p>
+
+<div align="center">
+<h3>Machine Learning</h3>
+</div>
+
+<p align="center">
+
+<a href="https://github.com/dmytro-varich/ML-AQ11-Rule-Generation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=ML-AQ11-Rule-Generation&theme=default&show_owner=false"/>
+</a>
+
+</p>
+
+<div align="center">
+<h3>Database</h3>
+</div>
+
+<p align="center">
+
+<a href="https://github.com/dmytro-varich/Telegram-Social-Network-Database">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dmytro-varich&repo=Telegram-Social-Network-Database&theme=default&show_owner=false"/>
+</a>
+
+</p>
 
 ## 🔬 Research
 
-- [Acceleration of Robot Sensor Data Processing Using NVIDIA Isaac ROS Package](https://opac.crzp.sk/?fn=detailBiblioForm&sid=F514B72FB7D42B76067A2F3E5F61)
+1. [Acceleration of Robot Sensor Data Processing Using NVIDIA Isaac ROS Package](https://opac.crzp.sk/?fn=detailBiblioForm&sid=F514B72FB7D42B76067A2F3E5F61)
 
 ## 🌍 Languages
 
